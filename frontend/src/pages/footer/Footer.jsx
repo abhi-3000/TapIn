@@ -51,13 +51,13 @@ const footerLinks = [
     ],
   },
   {
-    title: "About Eventzilla",
+    title: "About TapIn",
     sections: [
       {
         subtitle: null,
         links: [
           "About",
-          "Eventzilla Blog",
+          "TapIn Blog",
           "Resources",
           "Contact Us",
           "Help Desk",
